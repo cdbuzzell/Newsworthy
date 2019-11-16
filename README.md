@@ -11,3 +11,4 @@ Corey's News Telemetry report: https://github.com/cdbuzzell/SharePointNewsTeleme
 Doug's Power App: https://github.com/cdbuzzell/Newsworthy/blob/master/NewsSubmission_20191116173830.zip
 
 Doug's Power Automate flow: https://github.com/cdbuzzell/Newsworthy/blob/master/SharePointNewsPageGeneratorFlow_20191116174726%20(1).zip
+
