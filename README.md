@@ -8,7 +8,7 @@ Doug Splinter, Corey Buzzell
 
 [Corey's News Telemetry report](https://aka.ms/SharePointNewsTelemetry)
 
-[Doug's Power App](../master/NewsSubmission_20191116173830.zip)
+[Doug's Power App](../../raw/master/NewsSubmission_20191116173830.zip)
 
-[Doug's Power Automate flow](../master/SharePointNewsPageGeneratorFlow_20191116174726%20(1).zip)
+[Doug's Power Automate flow](../../raw/master/SharePointNewsPageGeneratorFlow_20191116174726%20(1).zip)
 
